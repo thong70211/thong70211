@@ -11,5 +11,5 @@ Hi, I'm a first-year Information Security student at UIT.
 - Practicing CTF challenges
 
 ## Projects
-- Bandit Writeups
 - Networking Labs
+- Network Analyze Tool
